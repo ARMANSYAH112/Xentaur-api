@@ -1,0 +1,10 @@
+{
+  "name": "xentaur-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/download.js",
+  "scripts": {
+    "start": "node api/download.js"
+  },
+  "dependencies": {}
+}
