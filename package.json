@@ -7,4 +7,3 @@
     "start": "node api/download.js"
   },
   "dependencies": {}
-}
